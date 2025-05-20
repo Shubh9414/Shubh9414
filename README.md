@@ -1,4 +1,0 @@
-- Hi, I’m Shubham Singh
-- I’m interested in (cyber security)
-- I’m currently learning (DSA using Python, LINUX)
-- How to reach me (shu9731@gmail.com)
