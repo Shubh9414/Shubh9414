@@ -37,3 +37,4 @@ I specialize in building defensive security infrastructure and engineering high-
 * [cite_start]**Education:** B.Tech in CSE, Amity University Jaipur (Exp. July 2026)[cite: 39].
 * [cite_start]**LinkedIn:** [linkedin.com/in/shubham-singh-257746252](https://linkedin.com/in/shubham-singh-257746252)[cite: 2].
 
+
