@@ -41,9 +41,11 @@ I specialize in building defensive security infrastructure and engineering high-
 ---
 
 ### 📈 Activity & Connect
+* **Email:** [Shu9731@gmail.com](mailto:Shu9731@gmail.com)
 * **Education:** B.Tech in CSE, Amity University Jaipur (Exp. June 2026).
 * **LinkedIn:** [linkedin-shubham-singh](https://linkedin.com/in/shubham-singh-257746252).
-* **E-Mail:** [Connect E-mail](Shu9731@gmail.com)
+
+
 
 
 
