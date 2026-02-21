@@ -4,7 +4,7 @@
 I specialize in Blue Team operations, SIEM management, and threat detection. 
 
 ### 🛡️ Top Projects
-* **[Azure Sentinel SOC Lab](link)**: End-to-end SOC implementation with custom KQL rules and SOAR automation.
+* **[Azure Sentinel SOC Lab](https://github.com/Shubh9414/MicrosoftAzure-Sentinel-SOAR-Lab)**: End-to-end SOC implementation with custom KQL rules and SOAR automation.
 * **[Blue Log Analyzer](link)**: Python tool for automated log analysis and threat intel integration.
 
 ### 🛠️ Technical Toolkit
@@ -14,3 +14,4 @@ I specialize in Blue Team operations, SIEM management, and threat detection.
 
 ### 📊 Stats & Badges
 (Add your BTL1 or Security+ digital badges here)
+
