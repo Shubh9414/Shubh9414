@@ -19,6 +19,12 @@ I specialize in building defensive security infrastructure and engineering high-
 
 ### 🛠️ Technical Arsenal
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 * **SIEM & Monitoring:** Microsoft Sentinel (KQL), Splunk (SPL), Sysmon, Linux auditd.
 * **Incident Response:** Threat Hunting, Digital Forensics (Autopsy, FTK Imager), Traffic Analysis (Wireshark).
 * **Cloud & Infra:** Azure Arc, Defender for Cloud, AWS (IAM, EC2).
@@ -36,6 +42,7 @@ I specialize in building defensive security infrastructure and engineering high-
 ### 📈 Activity & Connect
 * **Education:** B.Tech in CSE, Amity University Jaipur (Exp. June 2026).
 * **LinkedIn:** [linkedin.com/in/shubham-singh-257746252](https://linkedin.com/in/shubham-singh-257746252).
+
 
 
 
