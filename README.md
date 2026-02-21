@@ -7,7 +7,7 @@ I specialize in building defensive security infrastructure and engineering high-
 
 ### 🛡️ Featured Cybersecurity Projects
 
-#### [Microsoft Sentinel SOC & SOAR Lab](https://github.com/Shubh9414/Microsoft-Azure-Sentinel-SOAR-Lab)
+#### [Microsoft Sentinel SOC & SOAR Lab](https://github.com/Shubh9414/MicrosoftAzure-Sentinel-SOAR-Lab)
 * [cite_start]**The Mission:** Architected a hybrid-cloud SOC ingesting logs from Windows, Azure, and on-premise Linux via Azure Arc[cite: 18].
 * [cite_start]**Detection Engineering:** Authored 10+ custom **KQL** rules mapped to MITRE ATT&CK (e.g., LSASS dumping, execve execution)[cite: 19].
 * [cite_start]**Automation:** Deployed SOAR playbooks using **Azure Logic Apps** for automated incident triage in Microsoft Teams[cite: 22].
@@ -36,5 +36,6 @@ I specialize in building defensive security infrastructure and engineering high-
 ### 📈 Activity & Connect
 * [cite_start]**Education:** B.Tech in CSE, Amity University Jaipur (Exp. July 2026)[cite: 39].
 * [cite_start]**LinkedIn:** [linkedin.com/in/shubham-singh-257746252](https://linkedin.com/in/shubham-singh-257746252)[cite: 2].
+
 
 
