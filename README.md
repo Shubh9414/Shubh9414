@@ -13,7 +13,8 @@ I specialize in building defensive security infrastructure and engineering high-
 * **Automation:** Deployed SOAR playbooks using **Azure Logic Apps** for automated incident triage in Microsoft Teams.
 
 #### [Blue Log Analyzer](https://github.com/Shubh9414/Blue-Log-Analyzer)
-* A **Python** automation tool designed to enrich IOCs from raw logs using API integrations, reducing manual investigation time by ~90%.
+* A **Python** automation tool designed to enrich IOCs from raw logs using API integrations, reducing per-incident manual lookup time
+from approximately 20 minutes to under 2 minutes.
 
 ---
 
